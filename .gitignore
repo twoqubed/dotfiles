@@ -1,3 +1,5 @@
 */
 *.*
 Movies
+
+!.ansible.cfg
